@@ -1,6 +1,3 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Clima
 
 ## What you I learnt
